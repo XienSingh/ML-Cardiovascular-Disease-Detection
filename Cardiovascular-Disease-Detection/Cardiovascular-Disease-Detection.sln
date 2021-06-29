@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31410.414
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardiovascular-Disease-Detection", "Cardiovascular-Disease-Detection\Cardiovascular-Disease-Detection.csproj", "{7AAEACD0-18A1-4604-90E9-AC7CFAB8D7FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAEACD0-18A1-4604-90E9-AC7CFAB8D7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAEACD0-18A1-4604-90E9-AC7CFAB8D7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAEACD0-18A1-4604-90E9-AC7CFAB8D7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAEACD0-18A1-4604-90E9-AC7CFAB8D7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23EADB4F-2A5C-43DE-9F75-AD15FA7EDA78}
+	EndGlobalSection
+EndGlobal
